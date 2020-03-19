@@ -19,6 +19,7 @@ body {
     color: #ffffff;
 }
 
+    /* Company Name */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -28,6 +29,7 @@ body {
     color: #d9dcd6;
 }
 
+    /* Navigation Links */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
