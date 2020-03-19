@@ -50,15 +50,7 @@ a {
     text-decoration: none;
 }
 
-/* Hero/Jumbotron */
-.hero img {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
-}
-
+/* Utility Classes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,15 +61,32 @@ a {
     margin-left: 25px;
 }
 
-/* Products and Services */
-.content {
+/* Hero/Jumbotron */
+.hero img {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Services */
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Search Engine Optimization */
-.search-engine-optimization {
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.service-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -86,52 +95,6 @@ a {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Online Reputation Management */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Social Media Marketing */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* Benefits */
 .benefits {
@@ -196,13 +159,13 @@ a {
 }
 
 /* Footer */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
