@@ -4,7 +4,7 @@
 This is a landing page for Horiseon, a marketing firm.  
 
 ### Screenshot of the page
-! [screenshot] (assets/images/01-html-css-git-homework-demo)
+![screenshot](/assets/images/01-html-css-git-homework-demo.png)
 
 ### Link to deployed page
 https://durcoorigin.github.io/Horiseon/
