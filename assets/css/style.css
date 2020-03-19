@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Navagation Bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero/Jumbotron */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
+/* Search Engine Optimization */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
